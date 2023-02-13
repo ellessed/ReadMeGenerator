@@ -35,6 +35,6 @@ Next you should navigate to the terminal, ensure the correct inquirer package is
 
 ## Video Demonstration
 
-To view the demo please open and download
+To view the demo please open and download here
 
 https://drive.google.com/file/d/11QjKO_lJT8WACGqRQ1fvGPROt_1B0Oeg/view
